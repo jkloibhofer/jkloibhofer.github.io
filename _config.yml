@@ -19,6 +19,7 @@ plugins:
 - jekyll-include-cache
 - jemoji
 - jekyll-remote-theme
+- jekyll-titles-from-headings
 
 # Site settings
 url: 'https://mydomain.com'
@@ -40,6 +41,12 @@ navigation_header:
   url: /research/
 - title: Teaching
   url: /teaching/
+
+#Plugin titles from headings
+titles_from_headings:
+  enabled:     true
+  strip_title: false
+  collections: false
 
 # Footer nav
 navigation_footer:
