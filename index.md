@@ -1,8 +1,8 @@
 ---
-title: Welcome to my website
+title: About
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Hello world
+  ## Johannes Kloibhofer
 ---
 
-There isn't much going on here yet, but watch this space
+I am a PhD candidate at the Institute for Logic, Language and Computation ([ILLC](https://www.illc.uva.nl/)) of the University of Amsterdam. My supervisors are 
