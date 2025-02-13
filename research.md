@@ -3,7 +3,8 @@
 
 - **Cut elimination for Cyclic Proofs: A Case Study in Temporal Logic**\
   joint work with Bahareh Afshari\
-  Proceedings of FICS 2024 ([arxiv](https://arxiv.org/abs/2405.01935))\
+  Proceedings of FICS 2024 ([arxiv](https://arxiv.org/abs/2405.01935))
+<br>
 
 - **A note on the incompleteness of Afshari & Leigh's system Clo**\
   Preprint ([arxiv](https://arxiv.org/abs/2307.06846))
@@ -17,4 +18,5 @@
   Proceedings of HCVS 2021 ([doi](https://dx.doi.org/10.4204/EPTCS.344.5))
 
 ## Theses
- 
+
+-
