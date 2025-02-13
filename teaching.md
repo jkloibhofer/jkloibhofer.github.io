@@ -1,7 +1,6 @@
----
-title: NAV TITLE
----
-#
+
+title: 
+
 
 ## Lecturer
 - **Recursion Theory**\
