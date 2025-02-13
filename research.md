@@ -1,4 +1,3 @@
-
 ## Publications
 
 - **Cut elimination for Cyclic Proofs: A Case Study in Temporal Logic**\
