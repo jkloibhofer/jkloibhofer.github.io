@@ -1,6 +1,6 @@
 ---
 title: About
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "C:\Users\jkloi\Documents\GitHub\PhD\Webpage"
 feature_text: |
   ## Johannes Kloibhofer
 ---
