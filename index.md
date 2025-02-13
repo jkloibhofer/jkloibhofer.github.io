@@ -1,6 +1,6 @@
 ---
 title: About
-feature_image: "C:\Users\jkloi\Documents\GitHub\PhD\Webpage"
+feature_image: "DSCF5339.JPG"
 feature_text: |
   ## Johannes Kloibhofer
 ---
