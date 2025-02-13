@@ -1,5 +1,10 @@
 ---
-title: Teaching
+title: NAV TITLE
 ---
+#
 
-Courses and projects that I have been teaching.
+## Lecturer
+- **Recursion Theory**\
+  Master of Logic, University of Amsterdam
+
+
