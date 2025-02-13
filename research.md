@@ -1,7 +1,4 @@
----
-hide: 
--title: Teaching
----
+#
 
 ## Publications
 
