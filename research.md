@@ -2,6 +2,6 @@
 title: Research
 ---
 
-subtitle: Publications
+## Publications
 
 
