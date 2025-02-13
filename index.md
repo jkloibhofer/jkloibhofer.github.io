@@ -2,8 +2,8 @@
 title: About
 feature_image: "DSCF3340.JPG"
 feature_text: |
-  # <span style="color:white">
-Johannes Kloibhofer
+  <span style="color:white">
+# Johannes Kloibhofer
 </span>
 ---
 
