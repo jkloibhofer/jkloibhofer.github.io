@@ -20,4 +20,7 @@
 
 ## Theses
 
--
+- **A fixed-point theorem for Horn formula equations**\
+  Master's thesis, TU Wien, 2020\
+  supervised by Stefan Hetzl ([doi](https://doi.org/10.34726/hss.2021.85542))
+  
