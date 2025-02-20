@@ -44,7 +44,7 @@ navigation_header:
 
 #Plugin titles from headings
 titles_from_headings:
-  enabled:     true
+  enabled:     false
   strip_title: true
   collections: true
 
