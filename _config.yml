@@ -46,7 +46,7 @@ navigation_header:
 titles_from_headings:
   enabled:     false
   strip_title: false
-  collections: true
+  collections: false
 
 # Footer nav
 navigation_footer:
