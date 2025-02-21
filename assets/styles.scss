@@ -4,36 +4,5 @@ styles: true
 ---
 
 
-$red:       #ddaaaa;
-$green:     #aaddaa;
-$blue:      #aaaadd;
-$yellow:    #ddddaa;
-$pink:      #ddaadd;
-$mizu:      #aadddd;
-$gray:      #333333;
-$lightgray: #dddddd;
-$darkgray:  #222222;
-
-@mixin box {
-    color: $gray;
-    background-color: white;
-    display: inline-block;
-    padding: 1px 4px 5px 4px;  
-    border-radius: 10px;
-    font-weight: 600;
-    text-align: center;
-    line-height: 1;
-}
-
-.button {
-    @include box;
-    background-color: $green;
-    cursor: pointer;
-    &:hover {
-        color: $gray;
-        background-color: $blue;
-    }
-}
-
 
 @import "alembic";
