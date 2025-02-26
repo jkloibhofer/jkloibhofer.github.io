@@ -8,4 +8,6 @@ feature_text: |
 
 I am a PhD candidate at the Institute for Logic, Language and Computation ([ILLC](https://www.illc.uva.nl/)) of the University of Amsterdam. My supervisors are [Yde Venema](https://staff.science.uva.nl/y.venema/) and [Bahareh Afshari](https://www.gu.se/en/about/find-staff/baharehafshari).
 
-Todo: work and interests
+I am interested in mathematical logic, where I mainly work in proof theory and related areas. My PhD project is about non-wellfounded proofs. These are proofs, that either contain infintely long branches or cycles. This allows them to for logics with fixpoints or induction. 
+
+Please contact me at email.
