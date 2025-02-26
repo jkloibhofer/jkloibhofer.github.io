@@ -8,7 +8,7 @@ styles: true
   position: relative;
   &__legend {
     font-style: italic;
-    color: $captionColour;
+    color: $white;
     position: absolute;
     overflow: hidden;
     right: 0;
@@ -81,7 +81,7 @@ textarea,
 select {
   &:focus,
   &:hover:focus {
-    outline: solid .12rem $focusColour;
+    outline: solid .12rem $white;
     outline-offset: -.12rem;
   }
 }
@@ -97,9 +97,9 @@ input[type="color"],
 textarea,
 select {
   width: 100%;
-  border: 1px solid $captionColour;
+  border: 1px solid $white;
   &:hover {
-    border-color: $bodyColour;
+    border-color: $white;
   }
 }
 
