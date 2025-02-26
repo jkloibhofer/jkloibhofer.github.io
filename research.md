@@ -3,7 +3,7 @@
 - **Cut elimination for Cyclic Proofs: A Case Study in Temporal Logic**\
   joint work with Bahareh Afshari\
   Proceedings of FICS 2024\
-  [arxiv](https://arxiv.org/abs/2405.01935){: .button},{% include button.html text="pdf" link="https://arxiv.org/pdf/2405.01935"}
+  [arxiv](https://arxiv.org/abs/2405.01935){: .button},{% include button.html text="pdf" link="https://arxiv.org/pdf/2405.01935" %}
   
 - **A note on the incompleteness of Afshari & Leigh's system Clo**\
   Preprint\
