@@ -1,3 +1,25 @@
+//button from daniel
+@mixin box {
+    color: $bodyColour
+    background-color: $backgroundColour;
+    display: inline-block;
+    padding: 1px 4px 5px 4px;  
+    border-radius: 10px;
+    font-weight: 600;
+    text-align: center;
+    line-height: 1;
+}
+
+.button {
+    @include box;
+    background-color: $backgroundColour;
+    cursor: pointer;
+    &:hover {
+        color: $bodyColour;
+        background-color: $captionColour;
+    }
+}
+
 // Structural elements
 body {
   background: $backgroundColour;
