@@ -1,4 +1,6 @@
 //button from daniel
+$red:       #ddaaaa;
+
 @mixin box {
     color: $bodyColour
     background-color: $backgroundColour;
@@ -15,7 +17,7 @@
     background-color: $backgroundColour;
     cursor: pointer;
     &:hover {
-        color: $bodyColour;
+        color: $red;
         background-color: $captionColour;
     }
 }
