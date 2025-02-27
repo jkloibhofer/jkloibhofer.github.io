@@ -34,7 +34,9 @@
   TABLEAUX 2023, Prague ([slides](Talks/TABLEAUX2023.pdf))
 
 - **Cut Elimination in Cyclic Proofs for Temporal Logic**\
-  Workshop organized at the occassion of Dominik Wehr's Licensiate, Gothenburg ([slides](Talks/Dominik2023))
+  Workshop organized at the occassion of Dominik Wehr's Licensiate, Gothenburg, 2023 ([slides](Talks/Dominik2023))
 
+- **Proofs by automata**\
+  Research Seminar in Logic, Gothenburg, 2023 ([slides](Talks/Goth2023))
 
 
