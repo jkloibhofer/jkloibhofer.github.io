@@ -3,7 +3,7 @@ title: About
 
 feature_image: "Fotos/Karlskrona23.jpeg"
 feature_text: |
-  #  <span style="color:white;">Johannes Kloibhofer </span>
+  # ** <span style="color:black;">Johannes Kloibhofer </span>**
 
 ---
 
