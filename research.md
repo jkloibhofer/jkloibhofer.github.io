@@ -24,3 +24,7 @@
   Master's thesis, TU Wien, 2020\
   supervised by Stefan Hetzl ([doi](https://doi.org/10.34726/hss.2021.85542),[pdf](https://dmg.tuwien.ac.at/hetzl/teaching/m_kloibhofer.pdf](https://repositum.tuwien.at/bitstream/20.500.12708/17585/1/Kloibhofer%20Johannes%20-%202021%20-%20A%20fixed-point%20theorem%20for%20Horn%20formula%20equations.pdf)))
   
+
+## Talks
+
+- 
