@@ -1,7 +1,7 @@
 ---
 title: About
 
-feature_image: "Fotos/Rode stip van flip.jpg"
+feature_image: "Fotos/RodeStip_snippet.jpg"
 feature_text: |
   # <span style="color:black;">Johannes Kloibhofer </span>
 
