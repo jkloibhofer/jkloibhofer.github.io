@@ -1,6 +1,6 @@
 ---
 title: About
-feature_image: "Fotos/Sweden23"
+feature_image: "Fotos/Sweden23.jpeg"
 feature_text: |
   #  <span style="color:white;">Johannes Kloibhofer </span>
 
