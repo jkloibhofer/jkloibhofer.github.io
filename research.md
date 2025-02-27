@@ -16,10 +16,7 @@
 
 - **A Fixed-point Theorem for Horn Formula Equations**\
   joint work with Stefan Hetzl\
-  Proceedings of HCVS 2021
-  <p align="right">
-([doi](https://dx.doi.org/10.4204/EPTCS.344.5),[pdf](https://arxiv.org/pdf/2109.04633v1))
-</p>
+  Proceedings of HCVS 2021   <p align="right"> <([doi](https://dx.doi.org/10.4204/EPTCS.344.5),[pdf](https://arxiv.org/pdf/2109.04633v1))> </p>
 
 ## Theses
 
