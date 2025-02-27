@@ -27,4 +27,5 @@
 
 ## Talks
 
-- 
+- **Cut elimination for Cyclic Proofs: A case study in temporal logic**\
+  FICS 2024, ( [slides](Talks/FICS2024.pdf) )
