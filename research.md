@@ -34,9 +34,20 @@
   TABLEAUX 2023, Prague ([slides](Talks/TABLEAUX2023.pdf))
 
 - **Cut Elimination in Cyclic Proofs for Temporal Logic**\
-  Workshop organized at the occassion of Dominik Wehr's Licensiate, Gothenburg, 2023 ([slides](Talks/Dominik2023))
+  Workshop organized at the occassion of Dominik Wehr's Licensiate, Gothenburg, 2023 ([slides](Talks/Dominik2023.pdf))
 
 - **Proofs by automata**\
-  Research Seminar in Logic, Gothenburg, 2023 ([slides](Talks/Goth2023))
+  Research Seminar in Logic, Gothenburg, 2023 ([slides](Talks/Goth2023.pdf))
 
+- **A proof system for the modal µ-calculus inspired by the determinisation of automata**\
+  Computational Logic Seminar, TU Vienna, 2023 ([slides](Talks/TUWien2023.pdf))
+
+- **A proof system for the modal µ-calculus inspired by the determinisation of automata**\
+  Proof Theory Workshop 2022, Utrecht ([slides](Talks/ProofTheoryW2022.pdf))
+
+- **A fixed-point theorem for Horn formula equations**\
+  Algebra|Coalgebra Seminar ILLC, 2021 ([slides](Talks/CoAlg2021.pdf))
+
+- **A fixed-point theorem for Horn formula equations**\
+  Proof Theory Workshop 2021, Madeira ([slides](Talks/ProofTheoryW2021.pdf))
 
