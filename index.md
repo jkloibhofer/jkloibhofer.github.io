@@ -1,7 +1,7 @@
 ---
 title: About
 
-feature_image: "Fotos/Karlskrona23_snippet.jpg"
+feature_image: "Fotos/Rode stip van flip.jpg"
 feature_text: |
   # <span style="color:black;">Johannes Kloibhofer </span>
 
