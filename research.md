@@ -10,7 +10,7 @@
     [arxiv](https://arxiv.org/abs/2307.06846) [pdf](https://arxiv.org/pdf/2307.06846) 
 
 - **Proof Systems for the Modal μ-Calculus Obtained by Determinizing Automata**\
-  joint work with Maurice Dekker, Johannes Marti and Yde Venema
+  joint work with Maurice Dekker, Johannes Marti and Yde Venema\
   Proceedings of TABLEAUX 2023\
   [doi](https://doi.org/10.1007/978-3-031-43513-3_14),[arxiv](https://arxiv.org/abs/2307.06897),[pdf](https://arxiv.org/pdf/2307.06897)
 
