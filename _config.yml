@@ -29,6 +29,17 @@ description: 'Personal webpage of Johannes Kloibhofer'
 permalink: pretty
 #logo: ""
 
+# Basic Information 
+title: Johannes Kloibhofer
+position: PhD Candidate
+department: ILLC
+university: University of Amsterdam
+email: j.kloibhofer@uva.nl
+
+# Search Engine Optimization (SEO)
+keywords: johannes kloibhofer, johannes, kloibhofer, jkloibhofer, j.kloibhofer, proof theory, modal logic, modal mu-calculus, cyclic proofs, mathematical logic, computational logic, non-wellfounded proofs, circular proofs
+canonical: https://jkloibhofer.github.io/
+
 # Pagination
 paginate: 5
 paginate_path: blog/page:num
