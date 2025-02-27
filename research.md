@@ -28,8 +28,13 @@
 ## Talks
 
 - **Cut elimination for Cyclic Proofs: A case study in temporal logic**\
-  FICS 2024 ([slides](Talks/FICS2024.pdf))
+  FICS 2024, Napoli ([slides](Talks/FICS2024.pdf))
 
 - **Proof Systems for the Modal μ-Calculus Obtained by Determinizing Automata**\
-  TABLEAUX 2023 ([slides](Talks/TABLEAUX2023.pdf))
+  TABLEAUX 2023, Prague ([slides](Talks/TABLEAUX2023.pdf))
+
+- **Cut Elimination in Cyclic Proofs for Temporal Logic**\
+  Workshop organized at the occassion of Dominik Wehr's Licensiate, Gothenburg ([slides](Talks/Dominik2023))
+
+
 
