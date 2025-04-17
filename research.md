@@ -15,7 +15,7 @@
 ## Preprints
 
 - **A note on the incompleteness of Afshari & Leigh's system Clo**\
-  Preprint ([arxiv](https://arxiv.org/abs/2307.06846) [pdf](https://arxiv.org/pdf/2307.06846))
+  Preprint ([arxiv](https://arxiv.org/abs/2307.06846),[pdf](https://arxiv.org/pdf/2307.06846))
 
 ## Theses
 
