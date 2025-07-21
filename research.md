@@ -1,8 +1,10 @@
 ## Publications
 
+- **Interpolation for **\
+
 - **Interpolation for the two-way modal µ-calculus**\
   joint work with Yde Venema\
-  accepted at LICS 2025 (to appear)
+  accepted at LICS 2025 ([arxiv](https://arxiv.org/abs/2505.12899#),[pdf](https://arxiv.org/pdf/2505.12899))
 
 - **Cut elimination for Cyclic Proofs: A Case Study in Temporal Logic**\
   joint work with Bahareh Afshari\
