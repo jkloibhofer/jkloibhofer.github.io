@@ -1,6 +1,8 @@
 ## Publications
 
-- **Interpolation for **\
+- **Interpolation for Converse PDL**\
+  joint work with Valentina Trucco Dalmas and Yde Venema\
+  accepted at TABLEAUX 2025 (to appear)
 
 - **Interpolation for the two-way modal µ-calculus**\
   joint work with Yde Venema\
