@@ -35,6 +35,9 @@
 ## Talks
 
 - **Interpolation for the two-way modal μ-calculus**\
+  Proof Theory Workshop 2025, Ghent ([slides](Talks/Ghent2025.pdf))
+  
+- **Interpolation for the two-way modal μ-calculus**\
   LICS 2025, Singapore ([slides](Talks/LICS2025.pdf))
 
 - **Cut elimination for Cyclic Proofs: A case study in temporal logic**\
