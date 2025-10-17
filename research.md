@@ -6,7 +6,10 @@
  won <span class="boxed-word">Best student paper award</span>\
 <span style="border:1px solid #ccc; padding:0.2em 0.4em; border-radius:4px;">Best student paper</span>\
 <span style="display:inline-block; padding:0.2em 0.6em; background-color:#4CAF50; color:white; border-radius:6px; font-weight:bold;">highlighted</span>\
-<span style="display:inline-block; padding:0.15em 0.4em; background-color: #ddaaaa; color:white; border-radius:6px; font-size:90%;">Best student paper</span>
+<span style="display:inline-block; padding:0.15em 0.4em; background-color: $linkColour; color:white; border-radius:6px; font-size:90%;">Best student paper</span>\
+<span style="display:inline-block; padding:0.15em 0.4em; background-color: $backgroundColour; color:white; border-radius:6px; font-size:90%;">Best student paper</span>\
+<span style="display:inline-block; padding:0.15em 0.4em; background-color: $bodyColour; color:white; border-radius:6px; font-size:90%;">Best student paper</span>\
+<span style="display:inline-block; padding:0.15em 0.4em; background-color: #05bf85; color:white; border-radius:6px; font-size:90%;">Best student paper</span>
   
 - **Interpolation for the two-way modal µ-calculus**\
   joint work with Yde Venema\
