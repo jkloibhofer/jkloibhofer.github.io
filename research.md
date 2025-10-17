@@ -3,13 +3,7 @@
 - **Interpolation for Converse PDL**\
   joint work with Valentina Trucco Dalmas and Yde Venema\
   accepted at TABLEAUX 2025 ([doi](https://doi.org/10.1007/978-3-032-06085-3_14),[arxiv](https://arxiv.org/abs/2508.21485),[pdf](https://arxiv.org/pdf/2508.21485))\
- won <span class="boxed-word">Best student paper award</span>\
-<span style="border:1px solid #ccc; padding:0.2em 0.4em; border-radius:4px;">Best student paper</span>\
-<span style="display:inline-block; padding:0.2em 0.6em; background-color:#4CAF50; color:white; border-radius:6px; font-weight:bold;">highlighted</span>\
-<span style="display:inline-block; padding:0.15em 0.4em; background-color: $linkColour; color:white; border-radius:6px; font-size:90%;">Best student paper</span>\
-<span style="display:inline-block; padding:0.15em 0.4em; background-color: $backgroundColour; color:white; border-radius:6px; font-size:90%;">Best student paper</span>\
-<span style="display:inline-block; padding:0.15em 0.4em; background-color: $bodyColour; color:white; border-radius:6px; font-size:90%;">Best student paper</span>\
-<span style="display:inline-block; padding:0.15em 0.4em; background-color: #05bf85; color:white; border-radius:6px; font-size:90%;">Best student paper</span>
+<span style="display:inline-block; padding:0.12em 0.3em; background-color: #05bf85; color:white; border-radius:6px; font-size:80%;">Best student paper</span>
   
 - **Interpolation for the two-way modal µ-calculus**\
   joint work with Yde Venema\
