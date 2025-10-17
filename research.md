@@ -2,7 +2,8 @@
 
 - **Interpolation for Converse PDL**\
   joint work with Valentina Trucco Dalmas and Yde Venema\
-  accepted at TABLEAUX 2025 ([doi](https://doi.org/10.1007/978-3-032-06085-3_14),[arxiv](https://arxiv.org/abs/2508.21485),[pdf](https://arxiv.org/pdf/2508.21485)) 
+  accepted at TABLEAUX 2025 ([doi](https://doi.org/10.1007/978-3-032-06085-3_14),[arxiv](https://arxiv.org/abs/2508.21485),[pdf](https://arxiv.org/pdf/2508.21485))
+  This is a <span style="border:1px solid #ccc; padding:0.2em 0.4em; border-radius:4px;">highlighted</span> word.
 
 - **Interpolation for the two-way modal µ-calculus**\
   joint work with Yde Venema\
