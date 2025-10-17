@@ -6,7 +6,7 @@
 
 - **Interpolation for the two-way modal µ-calculus**\
   joint work with Yde Venema\
-  accepted at LICS 2025 ([arxiv](https://arxiv.org/abs/2505.12899#),[pdf](https://arxiv.org/pdf/2505.12899))
+  accepted at LICS 2025 ([doi](10.1109/LICS65433.2025.00019),[arxiv](https://arxiv.org/abs/2505.12899#),[pdf](https://arxiv.org/pdf/2505.12899))
 
 - **Cut elimination for Cyclic Proofs: A Case Study in Temporal Logic**\
   joint work with Bahareh Afshari\
@@ -22,9 +22,13 @@
 
 ## Preprints
 
+- **Cut-elimination for the alternation-free modal mu-calculus**\
+  joint work with Bahareh Afshari\
+  Preprint ([arxiv](https://arxiv.org/abs/2510.11293),[pdf](https://arxiv.org/pdf/2510.11293))
+
 - **A note on the incompleteness of Afshari & Leigh's system Clo**\
   Preprint ([arxiv](https://arxiv.org/abs/2307.06846),[pdf](https://arxiv.org/pdf/2307.06846))
-
+  
 ## Theses
 
 - **A fixed-point theorem for Horn formula equations**\
