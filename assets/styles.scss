@@ -17,14 +17,4 @@ $focusColour: #ddaaaa! !default;
 $captionColour: #ddaaaa! !default;
 $white: #ffffff !default;
 
-// boxes
-.boxed-word {
-  display: inline-block;
-  padding: 0.2em 0.4em;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  background-color: #f9f9f9;
-  font-weight: bold;
-}
-
 @import "alembic";
