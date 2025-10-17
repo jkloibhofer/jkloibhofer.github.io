@@ -3,7 +3,6 @@
 - **Interpolation for Converse PDL**  &nbsp;&nbsp;<span style="display:inline; padding:2px 4px; background-color: #05bf85; color:white; border-radius:6px; font-size:77%;">Best student paper</span>\
   joint work with Valentina Trucco Dalmas and Yde Venema\
   accepted at TABLEAUX 2025 ([doi](https://doi.org/10.1007/978-3-032-06085-3_14),[arxiv](https://arxiv.org/abs/2508.21485),[pdf](https://arxiv.org/pdf/2508.21485))\
-<span style="display:inline; padding:3px 4px; background-color: #05bf85; color:white; border-radius:4px; font-size:80%;">Best student paper</span>
   
 - **Interpolation for the two-way modal µ-calculus**\
   joint work with Yde Venema\
