@@ -2,11 +2,11 @@
 
 - **Interpolation for Converse PDL**  &nbsp;&nbsp;<span style="display:inline; padding:2px 4px; background-color: #05bf85; color:white; border-radius:6px; font-size:77%;">Best student paper</span>\
   joint work with Valentina Trucco Dalmas and Yde Venema\
-  accepted at TABLEAUX 2025 ([doi](https://doi.org/10.1007/978-3-032-06085-3_14),[arxiv](https://arxiv.org/abs/2508.21485),[pdf](https://arxiv.org/pdf/2508.21485))
+  Proceedings of TABLEAUX 2025 ([doi](https://doi.org/10.1007/978-3-032-06085-3_14),[arxiv](https://arxiv.org/abs/2508.21485),[pdf](https://arxiv.org/pdf/2508.21485))
   
 - **Interpolation for the two-way modal µ-calculus**\
   joint work with Yde Venema\
-  accepted at LICS 2025 ([doi](https://doi.org/10.1109/LICS65433.2025.00019),[arxiv](https://arxiv.org/abs/2505.12899#),[pdf](https://arxiv.org/pdf/2505.12899))
+  Proceedings of LICS 2025 ([doi](https://doi.org/10.1109/LICS65433.2025.00019),[arxiv](https://arxiv.org/abs/2505.12899#),[pdf](https://arxiv.org/pdf/2505.12899))
 
 - **Cut elimination for Cyclic Proofs: A Case Study in Temporal Logic**\
   joint work with Bahareh Afshari\
