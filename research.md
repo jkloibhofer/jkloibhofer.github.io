@@ -3,6 +3,10 @@
 - **Interpolation for Converse PDL**  &nbsp;&nbsp;<span style="display:inline; padding:2px 4px; background-color: #05bf85; color:white; border-radius:6px; font-size:77%;">Best student paper</span>\
   joint work with Valentina Trucco Dalmas and Yde Venema\
   Proceedings of TABLEAUX 2025 ([doi](https://doi.org/10.1007/978-3-032-06085-3_14),[arxiv](https://arxiv.org/abs/2508.21485),[pdf](https://arxiv.org/pdf/2508.21485))
+
+- **An abstract fixed-point theorem for Horn formula equations**\
+  joint work with Stefan Hetzl\
+  ACM Transactions on Computational Logic, 2025 ([doi](https://doi.org/10.1145/3779416),[arxiv](https://arxiv.org/abs/2511.08162),[pdf](https://arxiv.org/pdf/2511.08162))
   
 - **Interpolation for the two-way modal µ-calculus**\
   joint work with Yde Venema\
