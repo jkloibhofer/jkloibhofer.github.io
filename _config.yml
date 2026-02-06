@@ -22,7 +22,7 @@ plugins:
 - jekyll-titles-from-headings
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://jkloibhofer.github.io'
 baseurl: ''
 title: 'Johannes Kloibhofer'
 description: 'Personal webpage of Johannes Kloibhofer'
