@@ -12,4 +12,6 @@ I am a PhD candidate at the Institute for Logic, Language and Computation ([ILLC
 
 I am interested in mathematical logic, where I mainly work in proof theory and related areas. My PhD project concerns non-wellfounded proofs. These are proofs that allow infinite branches or cycles making them suitable for logics with fixpoints or induction.   
 
+I am organising the FLAPS workshop on the 12th of February 2026. More information can be found [here](https://jkloibhofer.github.io/flaps/).
+
 Please contact me at [j.kloibhofer@uva.nl](mailto: j.kloibhofer@uva.nl).
