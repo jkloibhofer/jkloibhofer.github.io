@@ -28,13 +28,17 @@
 
 - **Cut-elimination for the alternation-free modal mu-calculus**\
   joint work with Bahareh Afshari\
-  Preprint ([arxiv](https://arxiv.org/abs/2510.11293),[pdf](https://arxiv.org/pdf/2510.11293))
+  submitted ([arxiv](https://arxiv.org/abs/2510.11293),[pdf](https://arxiv.org/pdf/2510.11293))
 
 - **A note on the incompleteness of Afshari & Leigh's system Clo**\
   Preprint ([arxiv](https://arxiv.org/abs/2307.06846),[pdf](https://arxiv.org/pdf/2307.06846))
   
 ## Theses
 
+- **Cycles with Annotations: Non-Wellfounded Proof Theory of Modal Fixpoint Logics**\
+  PhD thesis, ILLC, University of Amsterdam, 2026\
+  supervised by Yde Venema and Bahareh Afshari ([pdf](https://eprints.illc.uva.nl/id/document/13116))
+  
 - **A fixed-point theorem for Horn formula equations**\
   Master's thesis, TU Wien, 2020\
   supervised by Stefan Hetzl ([doi](https://doi.org/10.34726/hss.2021.85542),[pdf](https://repositum.tuwien.at/bitstream/20.500.12708/17585/1/Kloibhofer%20Johannes%20-%202021%20-%20A%20fixed-point%20theorem%20for%20Horn%20formula%20equations.pdf))
