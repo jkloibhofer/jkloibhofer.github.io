@@ -14,4 +14,4 @@ I am interested in mathematical logic, where I mainly work in proof theory and r
 
 I am organising the FLAPS workshop on the 12th of February 2026. More information can be found [here](https://jkloibhofer.github.io/flaps/).
 
-Please contact me at [j.kloibhofer@uva.nl](mailto: j.kloibhofer@uva.nl).
+Please contact me at [j.kloibhofer@proton.me](mailto: j.kloibhofer@proton.me).
