@@ -7,7 +7,7 @@ feature_text: |
 
 ---
  
-I am a mathematic logician, mainly working in proof theory and related areas. 
+I am a mathematic logician working in proof theory and related areas. 
 
 Recently I obtained my PhD at the Institute for Logic, Language and Computation ([ILLC](https://www.illc.uva.nl/)) of the University of Amsterdam supervised by [Yde Venema](https://staff.science.uva.nl/y.venema/) and [Bahareh Afshari](https://www.gu.se/en/about/find-staff/baharehafshari).
 My PhD project concerned non-wellfounded proofs. These are proofs that allow infinite branches or cycles making them suitable for logics with fixpoints or induction.   
