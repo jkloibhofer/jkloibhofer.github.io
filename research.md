@@ -45,6 +45,9 @@
   
 ## Talks
 
+- **Interpolation with cyclic proofs**\
+  LLAMA seminar 2026, Amsterdam ([slides](Talks/LLAMA2026.pdf))
+  
 - **Interpolation for the two-way modal μ-calculus**\
   Proof Theory Workshop 2025, Ghent ([slides](Talks/Ghent2025.pdf))
   
