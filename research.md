@@ -46,7 +46,7 @@
 ## Talks
 
 - **Interpolation with cyclic proofs**\
-  LLAMA seminar 2026, Amsterdam ([slides](Talks/LLAMA2026.pdf))
+  LLAMA seminar, ILLC Amsterdam, 2026 ([slides](Talks/LLAMA2026.pdf))
   
 - **Interpolation for the two-way modal μ-calculus**\
   Proof Theory Workshop 2025, Ghent ([slides](Talks/Ghent2025.pdf))
@@ -73,7 +73,7 @@
   Proof Theory Workshop 2022, Utrecht ([slides](Talks/ProofTheoryW2022.pdf))
 
 - **A fixed-point theorem for Horn formula equations**\
-  Algebra|Coalgebra Seminar ILLC, 2021 ([slides](Talks/CoAlg2021.pdf))
+  Algebra|Coalgebra Seminar, ILLC Amsterdam, 2021 ([slides](Talks/CoAlg2021.pdf))
 
 - **A fixed-point theorem for Horn formula equations**\
   Proof Theory Workshop 2021, Madeira ([slides](Talks/ProofTheoryW2021.pdf))
