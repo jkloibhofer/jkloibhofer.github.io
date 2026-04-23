@@ -44,7 +44,9 @@
   Preprint ([arxiv](https://arxiv.org/abs/2307.06846),[pdf](https://arxiv.org/pdf/2307.06846))
   
 ## Talks
-
+- **Constructing Cyclic Proofs for Interpolation**\
+  GroLog seminar, University of Groningen, 2026 ([slides](Talks/Groningen2026.pdf))
+  
 - **Interpolation with cyclic proofs**\
   LLAMA seminar, ILLC Amsterdam, 2026 ([slides](Talks/LLAMA2026.pdf))
   
